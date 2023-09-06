@@ -278,11 +278,13 @@ color:gray;
     grid-template-rows: auto auto auto;
 }
 .footer{
+    
     margin: 20px;
     display: grid;
     width: 100%;
     height: auto;
     justify-items: center;
+    justify-content: center;
 
     grid-template-columns: 250px 250px 250px; 
     grid-template-rows: 250px 250px;
